@@ -6,7 +6,7 @@ This project is born out of my frustrations with limited documentation, advice a
 
 This will be a defined method of unit testing iOS applications through a combination of templates, protocols and helpers. 
 
-At the moment this is just a work in progress, I'll announce soon when its ready.
+At the moment this is just a work in progress, I'll announce soon when it's ready.
 
 ## Installing for Xcode 4
 
